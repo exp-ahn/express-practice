@@ -1,0 +1,10 @@
+{
+  "users": [
+    {
+      "email": "gusgml042933@gmail.com",
+      "password": "Abcd1234!",
+      "nickname": "wayne",
+      "profileImagePath": "/public/image/profile/1.jpg"
+    }
+  ]
+}
